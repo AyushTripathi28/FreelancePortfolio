@@ -1,4 +1,4 @@
-# **_Ayush Freelan ce Portfolio_**
+# **_Ayush Freelance Portfolio_**
 
 `I have worked on multiple application from past 1+ year as a freelance developer. Theres a lot of experince i gain while working on these professinal projects for reallife usecase.`
 
